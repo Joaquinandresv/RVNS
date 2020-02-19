@@ -518,7 +518,6 @@ function get_grid()
     #long
     long_arr = geo_data[:,3];
 
-
     #min_lat   = minimum(lat_arr);
     min_lat   = 19.3582;
     #max_lat   = maximum(lat_arr);

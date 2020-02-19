@@ -1,8 +1,0 @@
-experimentos   = 1 
-promedio       = 312452.0 
-d.e            = NaN   
-best           = 312452 
-worst          = 312452 
-tiempo_prom    = 25485.7854062 s
-tiempo_c/exp   = Any[25485.8]
-criterio       = swap center random 
