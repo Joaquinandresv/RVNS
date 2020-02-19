@@ -1,0 +1,5 @@
+﻿r_max (numero de iteraciones) = 100
+len_N (tamano de los vecindarios) = 3
+balance = 1 (100%)
+prioridad = 15
+experimentos = 5

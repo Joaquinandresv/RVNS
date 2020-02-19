@@ -1,0 +1,8 @@
+experimentos   = 1 
+promedio       = 268270.0 
+d.e            = NaN   
+best           = 268270 
+worst          = 268270 
+tiempo_prom    = 8673.872023099 s
+tiempo_c/exp   = Any[8673.87]
+criterio       = swap center random 
